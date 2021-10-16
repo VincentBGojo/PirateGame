@@ -14,9 +14,10 @@ var checkDead = setInterval(function(){
     parseInt(window.getComputedStyle(character).getPropertyValue("top"));
     var blockLeft = 
     parseInt(window.getComputedStyle(block).getPropertyValue("left"));
-    if(blockLeft<75 && blockLeft>0 && characterTop>=230){
+    if(blockLeft<60 && blockLeft>0 && characterTop>=230){
         block.style.animation ="none";
         block.style.display ="none";
+        alert('try harder')
         location.reload();
     }
 },10);

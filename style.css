@@ -41,8 +41,8 @@
     content:url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16de4cba-a701-4d4d-a312-50cb70d9548d/d516gz0-e313d347-223d-44af-8439-e8eb01b386b6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2ZGU0Y2JhLWE3MDEtNGQ0ZC1hMzEyLTUwY2I3MGQ5NTQ4ZFwvZDUxNmd6MC1lMzEzZDM0Ny0yMjNkLTQ0YWYtODQzOS1lOGViMDFiMzg2YjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xoyycZKJFXnXKwuhiUoEhphiz6N5-hnweti5gbF2F2g);
 }
 @keyframes block{
-    0%{left: 920px;}
-    100%{left: -40px}
+    0%{left: 930px;}
+    100%{left: -100px}
 }
 
 .titre{
