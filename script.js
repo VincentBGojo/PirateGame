@@ -1,3 +1,7 @@
+var audio = document.getElementById("audio");
+audio.volume = 0.2;
+console.log(audio); 
+
 var character=
 document.getElementById("character");
 var block= document.getElementById("block");
